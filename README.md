@@ -39,10 +39,16 @@ There are three sections on the "Amortization Schedule" worksheet shown below.<b
 * **Section #2** is the "**Loan Summary**" with the original terms including total interest paid out over the life of the loan, the total cost of the loan (principal + interest), the total number of payments, the payoff time in years, and the final payoff date.
 * **Section #3** is the "**Amortization Schedule**" showing you each payment's date, beginning balance, scheduled payment (interest + principal), total payment (including any extra principal pre-payment you enter in the yellow box), the remaining balance on the loan, the cumulative principal paid and the cumulative interest paid on the loan.
 <img src="img/02_03_main_page_sections.png">
-<br><br>
+<br>
 
 ### 2.4 - "Pre-Payment to Principal" / Early Payoff
 There are two ways of entering extra payments in this spreadsheet: (1) as a Loan Parameter, and (2) directly down in the amortization schedule as a one-off.
 * **Bullet #1** below is where you enter a regular extra payment (to principal) that you want to occur with every scheduled payment.  In the example below, an extra $125.00 will be applied to principal every month.  You can see the $125 repeating down in the amortization schedule above and below bullet #2.  This reduces the total life of the loan by 5.42 years and 65 payments in cells I10 and I11.
-
-
+* **Bullet #2** is where you enter unique one-time payments that are not scheduled.  In the example below, the user made a one-time extra payment of $500 on November 1 because she received a spot bonus at work and wanted to apply that to her mortgage principal.<br><br>
+* _**Pro Tip #1:** If you have already been paying your mortgage for some time and just started using this spreadsheet to track, this is where you would manually enter all of your pre-payments (type the values in over the formulas) to precisely model your current mortgage histories if you varied from the regular payments._
+* _**Pro Tip #**: The way I use these two pre-payment approaches is by entering the minimum pre-payment amount I know I can hit every month (the $125 in example below at bullet #1). But then every month I try to pre-pay more and just over-type the formula in the "Extra Payments" column at bullet #2._
+* **Bullet #3** shows how the Loan Summary section "lights up" after pre-payments are detected.  Notice the 
+"w/Pre-Payments" column is no longer grayed out because the values changed.  Notice the "Total Savings" column with green values indicating how much money you saved by not paying interest and how much time you reduced on the life of the loan.
+* **Bullet #4** shows the impact of paying extra principal above the regular scheduled amount.  For example, the remaining balance dropped by about $750 and the cumulative principal jumped from $1,127 to $1,881.
+<img src="img/02_04_pre_payment_to_principal.png">
+<br>

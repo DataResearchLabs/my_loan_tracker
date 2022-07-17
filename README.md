@@ -77,7 +77,7 @@ There was going to be a Free edition and a Standard edition (for $4.99).  Howeve
 4. Because this open source, leave the password blank...the worksheet is simply unlocked
 
 
-### 4 - Additional Training
+## 4 - Additional Training
 For aditional training and related materials, please visit my YouTube site at: https://www.youtube.com/c/DataResearchLabs/featured														
 
 

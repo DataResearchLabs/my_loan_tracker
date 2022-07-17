@@ -15,4 +15,4 @@
 
 ### 2.1 - Legend
 The general rule is that you only type into light yellow cells, and only on the first worksheet "Amortization Schedule".  Everything else is a calculated cell.
-Cells and fonts are color-coded as follows to indicate which parameters the user can/should edit.
+<img align="left" src="https://github.com/DataResearchLabs/my_loan_amortization/blob/main/img/02_01_legend.png">

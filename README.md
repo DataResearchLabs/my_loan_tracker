@@ -15,8 +15,10 @@
 ## 2 - Quick Start Guide
 
 ### 2.1 - Legend
-<img align="right" src="https://github.com/DataResearchLabs/my_loan_amortization/blob/main/img/02_01_legend.png" width=650>
-The general rule is that you only type into light yellow cells, and only on the first worksheet "Amortization Schedule".  Everything else is a calculated cell.
+The general rule is that you only type into light yellow cells, and only on the first worksheet "Amortization Schedule".<br>
+Everything else is a calculated cell.
+<br>
+<img src="https://github.com/DataResearchLabs/my_loan_amortization/blob/main/img/02_01_legend.png" width=700>
 <br><br>
 
 ### 2.2 - "The Inputs" = Just 6 Loan Parameters
@@ -40,6 +42,7 @@ There are three sections on the "Amortization Schedule" worksheet shown below.<b
 <br><br>
 
 ### 2.4 - "Pre-Payment to Principal" / Early Payoff
-
+There are two ways of entering extra payments in this spreadsheet: (1) as a Loan Parameter, and (2) directly down in the amortization schedule as a one-off.
+* **Bullet #1** below is where you enter a regular extra payment (to principal) that you want to occur with every scheduled payment.  In the example below, an extra $125.00 will be applied to principal every month.  You can see the $125 repeating down in the amortization schedule above and below bullet #2.  This reduces the total life of the loan by 5.42 years and 65 payments in cells I10 and I11.
 
 

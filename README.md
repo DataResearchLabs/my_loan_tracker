@@ -68,7 +68,7 @@ There was going to be a Free edition and a Standard edition (for $4.99).  Howeve
 |:----------------------------------|:----------------------------------|
 |Purchase (Donate) from Etsy: | https://www.etsy.com/shop/DataResearchLabs|
 |Download for free from GitHub: | https://github.com/dataresearchlabs/my_loan_amortization|
-<br><br>
+
 
 ### 3.2 - How to "Unlock" the Spreadsheet (for editing / to view formulas)
 1. Download or purchase a copy of the spreadsheet

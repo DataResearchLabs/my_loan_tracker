@@ -75,6 +75,7 @@ There was going to be a Free edition and a Standard edition (for $4.99).  Howeve
 2. Open the file in XL  and click the "Amortization Schedule" tab
 3. Click menu items "Home"  >  "Format"  >  "Unprotect Sheet"
 4. Because this open source, leave the password blank...the worksheet is simply unlocked
+<br><br>
 
 
 ## 4 - Additional Training

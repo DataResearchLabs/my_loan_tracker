@@ -14,5 +14,16 @@
 ## 2 - Quick Start Guide
 
 ### 2.1 - Legend
-The general rule is that you only type into light yellow cells, and only on the first worksheet "Amortization Schedule".  Everything else is a calculated cell.<br><br>
+The general rule is that you only type into light yellow cells, and only on the first worksheet "Amortization Schedule".  Everything else is a calculated cell.
+<br><br>
 <img align="left" src="https://github.com/DataResearchLabs/my_loan_amortization/blob/main/img/02_01_legend.png">
+
+
+### 2.2 - "The Inputs" = Just 6 Loan Parameters
+To use this spreadsheet, you just need to fill out the minimum set of parameters on the "Amortization Schedule" worksheet as follows (cross reference screenshot fields to the right):
+<img align="right" src="img/02_02_loan_parameters.png" width="544">
+1. **Original Loan Amount**: The total loan amount (principal) that you are borrowing and will need to pay back
+2. **Annual Interest Rate**: The loan interest rate															
+3. **Loan Period in Years**: The length of time in years to payoff the loan assuming no pre-payments to principal are made.  Typical values are
+15-year and 30-year, but we've added 40-year too if they come about.
+4. **Number of Payments Per Year**: This is typically 12 for monthly payments.

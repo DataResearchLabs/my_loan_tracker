@@ -66,5 +66,18 @@ There was going to be a Free edition and a Standard edition (for $4.99).  Howeve
 **I do have one request**:  If you benefit from using this product and can afford it, please visit the Etsy site below and make a purchase.  Think of it as donating $4.99 to help me out.  It is optional though, no obligation.
 |Location | URL |
 |:----------------------------------|:----------------------------------|
-|Purchase "My Loan Amorization" on Etsy: | https://www.etsy.com/shop/DataResearchLabs|
-|Download the free copy from GitHub: | https://github.com/dataresearchlabs/my_loan_amortization|
+|Purchase (Donate) from Etsy: | https://www.etsy.com/shop/DataResearchLabs|
+|Download for free from GitHub: | https://github.com/dataresearchlabs/my_loan_amortization|
+<br><br>
+
+### 3.2 - How to "Unlock" the Spreadsheet (for editing / to view formulas)
+1. Download or purchase a copy of the spreadsheet
+2. Open the file in XL  and click the "Amortization Schedule" tab
+3. Click menu items "Home"  >  "Format"  >  "Unprotect Sheet"
+4. Because this open source, leave the password blank...the worksheet is simply unlocked
+
+
+### 4 - Additional Training
+For aditional training and related materials, please visit my YouTube site at: https://www.youtube.com/c/DataResearchLabs/featured														
+
+

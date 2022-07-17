@@ -16,7 +16,7 @@
 ### 2.1 - Legend
 The general rule is that you only type into light yellow cells, and only on the first worksheet "Amortization Schedule".  Everything else is a calculated cell.
 <br><br>
-<img src="https://github.com/DataResearchLabs/my_loan_amortization/blob/main/img/02_01_legend.png" width=887>
+<img src="https://github.com/DataResearchLabs/my_loan_amortization/blob/main/img/02_01_legend.png" width=600>
 <br><br>
 
 
@@ -28,3 +28,5 @@ To use this spreadsheet, you just need to fill out the minimum set of parameters
 3. **Loan Period in Years**: The length of time in years to payoff the loan assuming no pre-payments to principal are made.  Typical values are
 15-year and 30-year, but we've added 40-year too if they come about.
 4. **Number of Payments Per Year**: This is typically 12 for monthly payments.
+5. **Date of First Payment**: Enter the year, month and day that payments will start.  I typically prefer setting the day to the first ("1").
+6. **Extra Payment / Early Principal**: This value is optional.  Leave it at $0.00 to stick with the original loan terms and length.  However, if you want to pay off the loan early and reduce total interest you can try out different values to pre-pay each period to understand the impact (example: pre-paying $500 a period might save 10.5 years off the loan and save $150,000 in interest to the bank...savings you can put to use elsewhere.  Play with this value to better understand your loan and various scenarios for paying it off faster.

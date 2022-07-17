@@ -64,5 +64,7 @@ There are two ways of entering extra payments in this spreadsheet: (1) as a Loan
 There was going to be a Free edition and a Standard edition (for $4.99).  However, Google Sheets strips the Microsoft Excel password protection thereby enabling anyone to view the formulas and edit the workbook, effectively bypassing the security.
 <br><br>
 **I do have one request**:  If you benefit from using this product and can afford it, please visit the Etsy site below and make a purchase.  Think of it as donating $4.99 to help me out.  It is optional though, no obligation.
+|Location | URL |
+|:----------------------------------|:----------------------------------|
 |Purchase "My Loan Amorization" on Etsy: | https://www.etsy.com/shop/DataResearchLabs|
 |Download the free copy from GitHub: | https://github.com/dataresearchlabs/my_loan_amortization|

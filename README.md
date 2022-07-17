@@ -14,5 +14,5 @@
 ## 2 - Quick Start Guide
 
 ### 2.1 - Legend
-The general rule is that you only type into light yellow cells, and only on the first worksheet "Amortization Schedule".  Everything else is a calculated cell.
+The general rule is that you only type into light yellow cells, and only on the first worksheet "Amortization Schedule".  Everything else is a calculated cell.<br><br>
 <img align="left" src="https://github.com/DataResearchLabs/my_loan_amortization/blob/main/img/02_01_legend.png">

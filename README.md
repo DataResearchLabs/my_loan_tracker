@@ -37,7 +37,8 @@ To use this spreadsheet, you just need to fill out the minimum set of parameters
 There are three sections on the "Amortization Schedule" worksheet shown below.<br>
 * **Section #1** is the "**Loan Parameters**" you just entered in the previous section.  Notice that the "Payment per Period" has been calculated for you (i.e. - the Monthly payment).
 * **Section #2** is the "**Loan Summary**" with the original terms including total interest paid out over the life of the loan, the total cost of the loan (principal + interest), the total number of payments, the payoff time in years, and the final payoff date.
-* **Section #3** is the "**Amortization Schedule**" showing you each payment's date, beginning balance, scheduled payment (interest + principal), total payment (including any extra principal pre-payment you enter in the yellow box), the remaining balance on the loan, the cumulative principal paid and the cumulative interest paid on the loan.
+* **Section #3** is the "Loan Tracking" fields that are only available in the STANDARD EDITION.  These cells let you select a current payment date and see what has been "Paid thus Far" vs. the "Remaining Balance".  It also lets you set a property name that appears on this sheet and the graphs for folks that either have multiple properties, or an old house they sold vs. new house they live in now.
+* **Section #4** is the "**Amortization Schedule**" showing you each payment's date, beginning balance, scheduled payment (interest + principal), total payment (including any extra principal pre-payment you enter in the yellow box), the remaining balance on the loan, the cumulative principal paid and the cumulative interest paid on the loan.
 <img src="img/02_03_main_page_sectionsX.png">
 <br>
 

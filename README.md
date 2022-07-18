@@ -18,12 +18,12 @@
 The general rule is that you only type into light yellow cells, and only on the first worksheet "Amortization Schedule".<br>
 Everything else is a calculated cell.
 <br>
-<img src="https://github.com/DataResearchLabs/my_loan_amortization/blob/main/img/02_01_legend.png" width=700>
+<img src="https://github.com/DataResearchLabs/my_loan_amortization/blob/main/img/02_01_legendX.png" width=700>
 <br><br>
 
 ### 2.2 - "The Inputs" = Just 6 Loan Parameters
 To use this spreadsheet, you just need to fill out the minimum set of parameters on the "Amortization Schedule" worksheet as follows (cross reference screenshot fields to the right):
-<img align="right" src="img/02_02_loan_parameters.png">
+<img align="right" src="img/02_02_loan_parametersX.png">
 1. **Original Loan Amount**: The total loan amount (principal) that you are borrowing and will need to pay back
 2. **Annual Interest Rate**: The loan interest rate															
 3. **Loan Period in Years**: The length of time in years to payoff the loan assuming no pre-payments to principal are made.  Typical values are
@@ -38,7 +38,7 @@ There are three sections on the "Amortization Schedule" worksheet shown below.<b
 * **Section #1** is the "**Loan Parameters**" you just entered in the previous section.  Notice that the "Payment per Period" has been calculated for you (i.e. - the Monthly payment).
 * **Section #2** is the "**Loan Summary**" with the original terms including total interest paid out over the life of the loan, the total cost of the loan (principal + interest), the total number of payments, the payoff time in years, and the final payoff date.
 * **Section #3** is the "**Amortization Schedule**" showing you each payment's date, beginning balance, scheduled payment (interest + principal), total payment (including any extra principal pre-payment you enter in the yellow box), the remaining balance on the loan, the cumulative principal paid and the cumulative interest paid on the loan.
-<img src="img/02_03_main_page_sections.png">
+<img src="img/02_03_main_page_sectionsX.png">
 <br>
 
 ### 2.4 - "Pre-Payment to Principal" / Early Payoff
@@ -50,13 +50,13 @@ There are two ways of entering extra payments in this spreadsheet: (1) as a Loan
 * **Bullet #3** shows how the Loan Summary section "lights up" after pre-payments are detected.  Notice the 
 "w/Pre-Payments" column is no longer grayed out because the values changed.  Notice the "Total Savings" column with green values indicating how much money you saved by not paying interest and how much time you reduced on the life of the loan.
 * **Bullet #4** shows the impact of paying extra principal above the regular scheduled amount.  For example, the remaining balance dropped by about $750 and the cumulative principal jumped from $1,127 to $1,881.
-<img src="img/02_04_pre_payment_to_principal.png">
+<img src="img/02_04_pre_payment_to_principalX.png">
 <br>
 
 ### 2.5 - "Payment Tracking"
 * **Bullet #1** in the screenshot below is a drop-down box labeled "Most Recent Payment Date".  This drop-down contains dates of all loan payments.  Use it to select the current pay period and popup the loan status data shown in the next bullet.
 * **Bullet #2** shows the tracking data window that appears upon selecting the most recent payment date.  The left column is titled "Paid Thus Far" and the right column is "Balance Remaining".  Use these columns to see how many payments, years, and dollars are completed thus far versus the balance remaining.
-<img src="img/02_05_payment_tracking.png">
+<img src="img/02_05_payment_trackingX.png">
 <br><br>
 
 ## 3 - "Open Source"

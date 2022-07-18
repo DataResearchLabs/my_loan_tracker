@@ -55,7 +55,7 @@ There are two ways of entering extra payments in this spreadsheet: (1) as a Loan
 <br>
 
 ### 2.5 - "Payment Tracking"
-* **Bullet #1** in the screenshot below is a drop-down box labeled "Most Recent Payment Date".  This drop-down contains dates of all loan payments.  Use it to select the current pay period and popup the loan status data shown in the next bullet.
+* **Bullet #1** in the screenshot below is a drop-down box labeled "Current Payment Date".  This drop-down contains dates of all loan payments.  Use it to select the current pay period and popup the loan status data shown in the next bullet.
 * **Bullet #2** shows the tracking data window that appears upon selecting the most recent payment date.  The left column is titled "Paid Thus Far" and the right column is "Balance Remaining".  Use these columns to see how many payments, years, and dollars are completed thus far versus the balance remaining.
 <img src="img/02_05_payment_trackingX.png">
 <br><br>

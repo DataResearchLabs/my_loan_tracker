@@ -8,8 +8,11 @@
 
 ## 1 - Overview
 * "My Loan Tracker" is loan repayment scheduler enabling you to plan, track, and adjust how much you're paying each period.  You can schedule routine "pre-payments to principle" on top of the regular period payments to reduce the total interest paid out and the lifespan of the loan.  You can even track the occasional one-off extra pre-payments.
-* The tool is simple to use.  All the formulas are done for you. Just fill out the six Loan Parameters in yellow boxes at the upper left corner of the spreadsheet, and everything else will be auto-calculated.  You can alter the paramters to try out different scenarios.  You can even go type in "one-off" pre-payments down in the schedule for accurate change tracking.
-* View the Graphs tab to see a standard "Loan Amortization Chart" depicting remaining balance, principle, and interest paid at any given point in the life of the loan.  There is also a "Payment Type" graph comparing total interest as originally scheduled versus after pre-payments have been applied.  
+* **FREE Edition**:  This spreadsheet is simple to use.  All the formulas are done for you. Just fill out the six Loan Parameters in yellow boxes at the upper left corner of the spreadsheet, and everything else will be auto-calculated.  You can alter the parameters to try out different scenarios.  You can even go type in "one-off" pre-payments down in the schedule for accurate change tracking.  A Graphs worksheet show the cumulative interest, cumulative principle, and remaining balance of the loan over its entrie life.  This is covered by an MIT License, enabling you to use, share and re-purpose anyway you need, including commercial use.  Most cells and formulas are locked.
+* **STANDARD Edition**:  Contains everything in the FREE edition.  Adds current payment date tracking projections such as the "Paid thus Far" and "Balance Remaining" columns of data.  Also adds two additional graphs: 
+1. "Payment Type" graph comparing total interest originally scheduled vs. after pre-payments are applied.   
+2. "Monthly Payments" graph showing principle vs. interest as periodic payments (not cumulative)
+Although all cells and formulas are locked, they are easily unprotected with a blank password.  
 
 
 ## 2 - Quick Start Guide
@@ -22,7 +25,7 @@ Everything else is a calculated cell.
 <br><br>
 
 ### 2.2 - "The Inputs" = Just 6 Loan Parameters
-To use this spreadsheet, you just need to fill out the minimum set of parameters on the "Amortization Schedule" worksheet as follows (cross reference screenshot fields to the right):
+The following features are available in both the **FREE** and **STANDARD** Editions.  To use this spreadsheet, you just need to fill out the minimum set of parameters on the "Amortization Schedule" worksheet as follows (cross reference screenshot fields to the right):
 <img align="right" src="img/02_02_loan_parametersX.png" width="300">
 1. **Original Loan Amount**: The total loan amount (principal) that you are borrowing and will need to pay back
 2. **Annual Interest Rate**: The loan interest rate															
@@ -37,13 +40,13 @@ To use this spreadsheet, you just need to fill out the minimum set of parameters
 There are three sections on the "Amortization Schedule" worksheet shown below.<br>
 * **Section #1** is the "**Loan Parameters**" you just entered in the previous section.  Notice that the "Payment per Period" has been calculated for you (i.e. - the Monthly payment).
 * **Section #2** is the "**Loan Summary**" with the original terms including total interest paid out over the life of the loan, the total cost of the loan (principal + interest), the total number of payments, the payoff time in years, and the final payoff date.
-* **Section #3** is the "Loan Tracking" fields that are only available in the STANDARD EDITION.  These cells let you select a current payment date and see what has been "Paid thus Far" vs. the "Remaining Balance".  It also lets you set a property name that appears on this sheet and the graphs for folks that either have multiple properties, or an old house they sold vs. new house they live in now.
+* **Section #3** is the "Loan Tracking" fields that are only available in the **STANDARD** Edition.  These cells let you select a current payment date and see what has been "Paid thus Far" vs. the "Remaining Balance".  It also lets you set a property name that appears on this sheet and the graphs for folks that either have multiple properties, or an old house they sold vs. new house they live in now.
 * **Section #4** is the "**Amortization Schedule**" showing you each payment's date, beginning balance, scheduled payment (interest + principal), total payment (including any extra principal pre-payment you enter in the yellow box), the remaining balance on the loan, the cumulative principal paid and the cumulative interest paid on the loan.
 <img src="img/02_03_main_page_sectionsX.png">
 <br>
 
 ### 2.4 - "Pre-Payment to Principal" / Early Payoff
-There are two ways of entering extra payments in this spreadsheet: (1) as a Loan Parameter, and (2) directly down in the amortization schedule as a one-off.
+The following features are available in both the **FREE** and **STANDARD** Editions.  There are two ways of entering extra payments in this spreadsheet: (1) as a Loan Parameter, and (2) directly down in the amortization schedule as a one-off.
 * **Bullet #1** below is where you enter a regular extra payment (to principal) that you want to occur with every scheduled payment.  In the example below, an extra $125.00 will be applied to principal every month.  You can see the $125 repeating down in the amortization schedule above and below bullet #2.  This reduces the total life of the loan by 5.42 years and 65 payments in cells I10 and I11.
 * **Bullet #2** is where you enter unique one-time payments that are not scheduled.  In the example below, the user made a one-time extra payment of $500 on November 1 because she received a spot bonus at work and wanted to apply that to her mortgage principal.
 * _**Pro Tip #1:** If you have already been paying your mortgage for some time and just started using this spreadsheet to track, this is where you would manually enter all of your pre-payments (type the values in over the formulas) to precisely model your current mortgage histories if you varied from the regular payments._
@@ -55,6 +58,7 @@ There are two ways of entering extra payments in this spreadsheet: (1) as a Loan
 <br>
 
 ### 2.5 - "Payment Tracking"
+The following features are only available in the **STANDARD** Edition.
 * **Bullet #1** in the screenshot below is a drop-down box labeled "Current Payment Date".  This drop-down contains dates of all loan payments.  Use it to select the current pay period and popup the loan status data shown in the next bullet.
 * **Bullet #2** shows the tracking data window that appears upon selecting the most recent payment date.  The left column is titled "Paid Thus Far" and the right column is "Balance Remaining".  Use these columns to see how many payments, years, and dollars are completed thus far versus the balance remaining.
 <img src="img/02_05_payment_trackingX.png">

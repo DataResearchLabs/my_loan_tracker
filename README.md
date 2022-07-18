@@ -18,7 +18,7 @@
 The general rule is that you only type into light yellow cells, and only on the first worksheet "Amortization Schedule".<br>
 Everything else is a calculated cell.
 <br>
-<img src="https://github.com/DataResearchLabs/my_loan_amortization/blob/main/img/02_01_legendX.png" width=700>
+<img src="https://github.com/DataResearchLabs/my_loan_amortization/blob/main/img/02_01_legend.png" width=700>
 <br><br>
 
 ### 2.2 - "The Inputs" = Just 6 Loan Parameters

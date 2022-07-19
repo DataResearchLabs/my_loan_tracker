@@ -69,14 +69,18 @@ The following features are only available in the **STANDARD** Edition.
 There are two editions of this spreadsheet: **FREE** and **STANDARD**.  Feature comparison as follows:
 <img src="img/feature_comparison.png">
 <br><br>
-**I do have one request**:  If you benefit from using this product and can afford it, please visit the Etsy site below and make a purchase.  Think of it as donating $4.99 to help me out.  It is optional though, no obligation.
-|Location | URL |
+
+### 3.2 - Purchasing Products & Services
+I put a lot of time and energy into making this tool.  If you use the **FREE** Edition for a couple of years and find it meets your needs well, then at that time please consider purchasing one copy of the **STANDARD** Edition to help me out.  Likewise, if you purchase one copy of the **STANDARD** Edition and are sharing it with your friends and clients, then please consider making those into purchases -- no obligation, just where it makes sense.   
+Finally, I'd be happy to re-brand the template for bulk purchases, site licenses, etc. (or you can do it yourself via the open source **FREE** Edition).  
+
+|Action | URL |
 |:----------------------------------|:----------------------------------|
-|Purchase (Donate) from Etsy: | https://www.etsy.com/shop/DataResearchLabs|
-|Download for free from GitHub: | https://github.com/dataresearchlabs/my_loan_tracker|
+| To purchase the **STANDARD** Edition on Etsy: | https://www.etsy.com/shop/DataResearchLabs |
+| To download the FREE Edition on GitHub: | https://github.com/dataresearchlabs/my_loan_tracker |
+| To email me about re-branding or other visit: | https://dataresearchlabs.com/contact-us |
 
-
-### 3.2 - How to "Unlock" the Spreadsheet (for editing / to view formulas)
+### 3.3 - How to "Unlock" the Spreadsheet (for editing / to view formulas)
 1. Download or purchase a copy of the spreadsheet
 2. Open the file in XL  and click the "Amortization Schedule" tab
 3. Click menu items "Home"  >  "Format"  >  "Unprotect Sheet"

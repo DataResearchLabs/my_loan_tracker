@@ -66,7 +66,8 @@ The following features are only available in the **STANDARD** Edition.
 
 ## 3 - "Open Source"
 ### 3.1 - This Product is Open Source
-There was going to be a Free edition and a Standard edition (for $4.99).  However, Google Sheets strips the Microsoft Excel password protection thereby enabling anyone to view the formulas and edit the workbook, effectively bypassing the security.
+There are two editions of this spreadsheet: **FREE** and **STANDARD**.  Feature comparison as follows:
+<img src="img/feature_comparison.png">
 <br><br>
 **I do have one request**:  If you benefit from using this product and can afford it, please visit the Etsy site below and make a purchase.  Think of it as donating $4.99 to help me out.  It is optional though, no obligation.
 |Location | URL |

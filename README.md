@@ -77,7 +77,7 @@ Finally, I'd be happy to re-brand the template for bulk purchases, site licenses
 |Action | URL |
 |:----------------------------------|:----------------------------------|
 | To purchase the **STANDARD** Edition on Etsy: | https://www.etsy.com/shop/DataResearchLabs |
-| To download the FREE Edition on GitHub: | https://github.com/dataresearchlabs/my_loan_tracker |
+| To download the **FREE** Edition on GitHub: | https://github.com/dataresearchlabs/my_loan_tracker |
 | To email me about re-branding or other visit: | https://dataresearchlabs.com/contact-us |
 
 ### 3.3 - How to "Unlock" the Spreadsheet (for editing / to view formulas)

@@ -64,6 +64,11 @@ The following features are only available in the **STANDARD** Edition.
 <img src="img/02_05_payment_tracking4.png">
 <br><br>
 
+### 2.6 - "Graphs"
+These graphs are also only available in the **STANDARD** Edition.  The graphs help you better visualize the whole loan life-cycle, and see total interest savings if you make pre-payments to principal.																								
+<img src="img/02_06_graphs.png">
+<br><br>
+
 ## 3 - "Open Source"
 ### 3.1 - This Product is Open Source
 There are two editions of this spreadsheet: **FREE** and **STANDARD**.  Feature comparison as follows:

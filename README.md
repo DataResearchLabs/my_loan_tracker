@@ -133,9 +133,9 @@ For aditional training and related materials, please visit my YouTube site at: h
     <br>
 
 9.	Q: What type of loans does My Loan Tracker support?<br>
-    A: The spreadsheet assumes you have a traditional fixed rate loan where you pay the same amount each period with the principal and interest portions varying.  While it is possible for the user to manually input custom balloon payments or adjustable-rate mortgages (ARMs) or other risky type of loans, the spreadsheet is not intended to support that.  The spreadsheet also makes the reasonable assumption that any pre-payments the user enters do not have lender-imposed pre-payment penalty fees.<br>
+    A: The spreadsheet assumes you have a traditional fixed rate loan where you pay the same amount each period with the principal and interest portions varying.  While it is possible for the user to manually input custom [balloon payments](https://www.valuepenguin.com/loans/what-is-a-balloon-payment#:~:text=Despite%20their%20reduced%20initial%20payments,hand%20and%20stable%20income%20streams.) or [adjustable-rate mortgages](https://www.nytimes.com/2022/06/03/your-money/adjustable-rate-mortgage.html) (ARMs) or other risky type of loans, the spreadsheet is not intended to support that.  The spreadsheet also makes the reasonable assumption that any pre-payments the user enters do not have lender-imposed pre-payment penalty fees.<br>
     <br>
 
 10.	Q: Are there reasons not to pay off your loan early?<br>
-    A: Yes, here, here, here, and here.<br>
+    A: Yes, [here](https://www.fool.com/the-ascent/mortgages/articles/4-reasons-not-to-pay-your-mortgage-loan-off-early/), [here](https://www.fool.com/investing/2021/12/31/3-reasons-not-to-pay-off-your-mortgage-early/), [here] (https://www.mybanktracker.com/news/why-not-to-pay-off-mortgage-early), and [here](https://www.moneytalksnews.com/reasons-not-to-pay-off-your-mortgage-early/).<br>
     <br>

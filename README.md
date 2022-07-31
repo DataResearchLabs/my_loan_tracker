@@ -97,3 +97,33 @@ Finally, I'd be happy to re-brand the template for bulk purchases, site licenses
 For aditional training and related materials, please visit my YouTube site at: https://www.youtube.com/c/DataResearchLabs/featured														
 
 
+
+## 5 - FAQ (Frequently Asked Questions)
+1.	Q: Where can I download the **FREE Edition** of “My Loan Tracker”?
+    A: Download it from GitHub at: https://github.com/DataResearchLabs/my_loan_tracker/tree/main/download
+
+2.	Q: Where can I purchase and download the STANDARD Edition of “My Loan Tracker”?
+    A: Purchase from Etsy at: https://www.etsy.com/shop/DataResearchLabs/
+
+3.	Q: Do I need any special software to use the “My Loan Tracker” spreadsheet?
+A: Yes, you must have Microsoft Excel (versions that read .xlsx files)
+
+4.	Q: Are there plans to port this over to Google Sheets? 
+A: Not at this time, maybe later.
+
+5.	Q: What can I use this template for?
+A:  You can plug in loan terms with extra payments to principal to test scenarios, track payments, and model your own unique loan’s history and future
+
+6.	Q: Can I keep my information private?
+A: Yes.  All the information resides within the spreadsheet on your local machine.  This maintains your privacy without sharing your information with anyone or on some internet site.
+
+7.	Q: Is there Help or Training for the spreadsheet? 
+A1: Yes, there is a Help tab on the spreadsheet.
+A2: Yes, the same Help is out on GitHub:  https://github.com/DataResearchLabs/my_loan_tracker 
+8.	Q: Are there any strings attached to downloading and using these Excel spreadsheets?  Any adware or cautions I should be aware of to protect and preserve my privacy when downloading and using these Excel spreadsheets?
+A: No.  There are none.  When you download the My Loan Tracker spreadsheet, there are no required extra fees, no time-based expirations, no advertisements, no embedded code (all formulas / no risk), and no one is collecting any of your information.  Avoid the online ad-based calculators that result in unwanted telemarketer calls.
+9.	Q: What type of loans does My Loan Tracker support?
+A: The spreadsheet assumes you have a traditional fixed rate loan where you pay the same amount each period with the principal and interest portions varying.  While it is possible for the user to manually input custom balloon payments or adjustable-rate mortgages (ARMs) or other risky type of loans, the spreadsheet is not intended to support that.  The spreadsheet also makes the reasonable assumption that any pre-payments the user enters do not have lender-imposed pre-payment penalty fees.
+
+10.	Q: Are there reasons not to pay off your loan early?
+A: Yes, here, here, here, and here.

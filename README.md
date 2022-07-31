@@ -137,5 +137,5 @@ For aditional training and related materials, please visit my YouTube site at: h
     <br>
 
 10.	Q: Are there reasons not to pay off your loan early?<br>
-    A: Yes, [here](https://www.fool.com/the-ascent/mortgages/articles/4-reasons-not-to-pay-your-mortgage-loan-off-early/), [here](https://www.fool.com/investing/2021/12/31/3-reasons-not-to-pay-off-your-mortgage-early/), [here] (https://www.mybanktracker.com/news/why-not-to-pay-off-mortgage-early), and [here](https://www.moneytalksnews.com/reasons-not-to-pay-off-your-mortgage-early/).<br>
+    A: Yes, [here](https://www.fool.com/the-ascent/mortgages/articles/4-reasons-not-to-pay-your-mortgage-loan-off-early/), [here](https://www.fool.com/investing/2021/12/31/3-reasons-not-to-pay-off-your-mortgage-early/), [here](https://www.mybanktracker.com/news/why-not-to-pay-off-mortgage-early), and [here](https://www.moneytalksnews.com/reasons-not-to-pay-off-your-mortgage-early/).<br>
     <br>

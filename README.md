@@ -94,8 +94,8 @@ Finally, I'd be happy to re-brand the template for bulk purchases, site licenses
 
 
 ## 4 - Additional Training
-For aditional training and related materials, please visit my YouTube site at: https://www.youtube.com/c/DataResearchLabs/featured														
-
+For aditional training and related materials, please visit my YouTube site at: https://www.youtube.com/c/DataResearchLabs/featured			
+<br><br>
 
 
 ## 5 - FAQ (Frequently Asked Questions)

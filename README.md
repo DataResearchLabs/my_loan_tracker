@@ -3,7 +3,7 @@
 # My Loan Tracker (MLT) 
 [![License: CC0](https://img.shields.io/badge/License-MIT-red)](LICENSE "MIT License by DataResearchLabs (open source)")
 ![current_build Office_365](https://img.shields.io/badge/Excel_Version-Office_365-yellow)
-[![Latest Release](https://img.shields.io/badge/Latest_Release-5.01.44308-blue)](https://github.com/DataResearchLabs/my_loan_amortization/tree/main/download)
+[![Latest Release](https://img.shields.io/badge/Latest_Release-1.00.09-blue)](https://github.com/DataResearchLabs/my_loan_amortization/tree/main/download)
 [![YouTube](https://img.shields.io/badge/YouTube-DataResearchLabs-brightgreen)](https://www.youtube.com/DataResearchLabs/featured)
 
 ## 1 - Overview
